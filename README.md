@@ -21,11 +21,10 @@ Os objetivos que norteiam este estudo são:
 
 Para a construção deste caderno temático focado na certificação AWS Certified Cloud Practitioner (CLF-C02), foram selecionadas e curadas entre 3 e 5 fontes abertas em formato de texto ou PDF. Estas fontes foram posteriormente carregadas no NotebookLM para análise e extração de informações relevantes. As fontes escolhidas são:
 
-*   **[Fonte 1 Título]**: [Link para a fonte ou indicação de onde está disponível, se for um arquivo local]. [Breve descrição do conteúdo da fonte e sua relevância para o estudo].
-*   **[Fonte 2 Título]**: [Link para a fonte ou indicação de onde está disponível, se for um arquivo local]. [Breve descrição do conteúdo da fonte e sua relevância para o estudo].
-*   **[Fonte 3 Título]**: [Link para a fonte ou indicação de onde está disponível, se for um arquivo local]. [Breve descrição do conteúdo da fonte e sua relevância para o estudo].
-*   **[Fonte 4 Título (Opcional)]**: [Link para a fonte ou indicação de onde está disponível, se for um arquivo local]. [Breve descrição do conteúdo da fonte e sua relevância para o estudo].
-*   **[Fonte 5 Título (Opcional)]**: [Link para a fonte ou indicação de onde está disponível, se for um arquivo local]. [Breve descrição do conteúdo da fonte e sua relevância para o estudo].
+*   **Documentação da AWS Certified Cloud Practitioner (CLF-C02)**: Guia oficial que detalha as diretrizes para o exame AWS Certified Cloud Practitioner (CLF-C02), uma certificação voltada para indivíduos que desejam validar um conhecimento geral sobre a nuvem AWS.
+*   **Curso preparatório da freeCodeCamp**: Curso preparatório abrangente da freeCodeCamp focado na certificação AWS Certified Cloud Practitioner.
+*   **AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf**: Guia oficial que detalha a estrutura do exame AWS Certified Cloud Practitioner (CLF-C02), uma certificação fundamental voltada para validar o conhecimento global sobre a nuvem AWS, independentemente da especialização técnica do candidato.
+*   **aws-overview (1).pdf**: Este documento oficial, conhecido como livro branco da AWS, funciona como um guia arquitetônico abrangente que detalha o vasto ecossistema da Amazon Web Services.
 
 ## 3. Engenharia de Prompts e "Cicatrizes"
 
@@ -86,8 +85,8 @@ Esta seção consolidará os principais aprendizados obtidos durante a preparaç
 
 ## Referências
 
-[1] [Título da Fonte 1](Link da Fonte 1)
-[2] [Título da Fonte 2](Link da Fonte 2)
-[3] [Título da Fonte 3](Link da Fonte 3)
-[4] [Título da Fonte 4 (Opcional)](Link da Fonte 4)
-[5] [Título da Fonte 5 (Opcional)](Link da Fonte 5)
+[1] Documentação da AWS Certified Cloud Practitioner (CLF-C02) (https://docs.aws.amazon.com/pt_br/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html?utm_source=chatgpt.com)
+[2] Curso preparatório da freeCodeCamp (https://www.youtube.com/watch?v=SOTamWNgDKc)
+[3] AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf (https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+[4] aws-overview (1).pdf (https://docs.aws.amazon.com/pt_br/whitepapers/latest/aws-overview/aws-overview.pdf)
+[5] NotebookLM (https://notebooklm.google.com/notebook/93c2ff83-879c-4598-9e66-b7e8d1bdcca3)
